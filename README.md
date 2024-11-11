@@ -14,8 +14,8 @@ Fueled by a passion for coding and web development, I'm on a mission to build Sa
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GiulianoCode&theme=onedark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GiulianoCode&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GiulianoCode&icon=6&color=4)](https://visitcount.itsvg.in)
+</div>
 
