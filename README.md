@@ -1,8 +1,8 @@
-# 💫 About Me:
+# About Me:
 Hi there! 👋<br>I'm Giuliano, an Informatics Engineering student in my final year, with a passion for web development and programming. My long-term goal is to create my own SaaS projects, whether for general use or in the AI space. Always eager to learn and build something impactful!<br><br>
 
 
-## 🌐 Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/l.giuliano.l) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SirYogger) 
 
 # 💻 Tech Stack:
