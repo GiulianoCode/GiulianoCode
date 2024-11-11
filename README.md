@@ -1,5 +1,5 @@
 # About Me:
-Hi there! 👋<br>I'm Giuliano, an Informatics Engineering student in my final year, with a passion for web development and programming. My long-term goal is to create my own SaaS projects, whether for general use or in the AI space. Always eager to learn and build something impactful!<br><br>
+Fueled by a passion for coding and web development, I'm on a mission to build SaaS projects that tackle real-world challenges — from practical everyday tools to cutting-edge AI solutions. Always evolving, always creating.
 
 
 ## Socials:
